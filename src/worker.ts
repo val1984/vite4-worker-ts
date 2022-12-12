@@ -1,7 +1,7 @@
-function printLol(): void {
+function printAlive(): void {
   console.log('Worker lives!');
 }
 
-printLol();
+printAlive();
 
 export {};
